@@ -49,8 +49,8 @@ By combining my technical background in AI with a deep understanding of design a
 
 ## 💼 Experience
 **Teaching Assistant** — NxtWave CCBP 4.0  
-- Assisted peers with course concepts, reinforcing my own understanding  
-- Fostered a collaborative and supportive learning environment
+- Assisting peers with course concepts, reinforcing my own understanding  
+- Fostering a collaborative and supportive learning environment
 
 **UI/UX Design Intern** — Next Skill Technologies  
 - Designed user-friendly interfaces using Figma and Balsamiq for client projects  
